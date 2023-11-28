@@ -1,16 +1,17 @@
 ### Hey, I'm Nimra👋
 
-☘ I am a Manual/Automated Test Engineer from Pakistan
+<ul>
+<li>☘ I am a Manual/Automated Test Engineer from Pakistan</li>
 
-🌅 I am constantly seeking to learn more about tech and to expand my professional horizons
+<li>🌅 I am constantly seeking to learn more about tech and to expand my professional horizons</li>
 
-:octocat: Would love to collaborate with like-minded people on interesting new projects 🤝
+<li>:octocat: Would love to collaborate with like-minded people on interesting new projects 🤝</li>
 
-👀 Have recently begun my career in coding with SheCodes
-
+<li>👀 Have recently begun my career in coding with SheCodes</li>
+</ul>
 
 You can reach me here:
-LinkedIn LinkedIn Icon
+<img src="https://camo.githubusercontent.com/e227e068f9cb62ce041d76f6375893382e1b3ee35dd74019f40c45c1fdc97d2f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f6666696365732f31372f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn Icon" data-canonical-src="https://img.icons8.com/offices/17/000000/linkedin.png" style="max-width: 100%;">
 
 I am currently working on:
 📚 Improving my automated testing skills 😃
