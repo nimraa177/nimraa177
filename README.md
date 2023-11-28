@@ -11,7 +11,7 @@
 </ul>
 
  <h3>You can reach me here:</h3> <br />
-<a href = "www.linkedin.com/in/nimra-awan/" rel="nofollow">LinkedIn</a> <img src="https://camo.githubusercontent.com/e227e068f9cb62ce041d76f6375893382e1b3ee35dd74019f40c45c1fdc97d2f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f6666696365732f31372f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn Icon" data-canonical-src="https://img.icons8.com/offices/17/000000/linkedin.png" style="max-width: 100%;">
+<a href = "www.linkedin.com/in/nimra-awan/" rel="nofollow">LinkedIn</a> 
 
 
 <h3>I am currently working on:</h3>
