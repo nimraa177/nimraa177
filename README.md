@@ -17,7 +17,9 @@ I am currently working on:
 🧱Learning webDevelpoment 🎨
 
 ⛏️ Technologies and Tools 🛠️:
+
 Languages:
+
 HTML5 CSS3 JavaScript Python
 
 Databases:
